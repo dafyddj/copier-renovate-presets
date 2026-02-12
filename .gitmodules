@@ -1,0 +1,3 @@
+[submodule "base-salt"]
+	path = base-salt
+	url = https://github.com/saltstack/salt-winrepo-ng

@@ -4,3 +4,4 @@ The following new files/directories were created:
 ----.github
 --------renovate.json5
 --------settings.yml
+----group-by-manager.json
