@@ -1,7 +1,4 @@
 The following new files/directories were created:
 <Test Directory>
 ----.copier-answers.renovate-presets.yml
-----.github
---------renovate.json5
---------settings.yml
 ----group-by-manager.json
