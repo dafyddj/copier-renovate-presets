@@ -1,3 +1,6 @@
 [submodule "base-salt"]
 	path = base-salt
 	url = https://github.com/saltstack/salt-winrepo-ng
+[submodule "base"]
+	path = base
+	url = https://github.com/techneg-it/.github
