@@ -1,1 +1,1 @@
-$TEXTTEST_ROOT/.. .
+$TEXTTEST_ROOT/.. . -d org_name=techneg-it
