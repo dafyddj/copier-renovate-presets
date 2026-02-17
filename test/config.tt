@@ -12,6 +12,7 @@ create_catalogues:true
 [collate_file]
 group-by-manager_json:group-by-manager.json
 update-github-actions_json:update-github-actions.json
+update-gitlab-ci_json:update-gitlab-ci.json
 update-pre-commit_json:update-pre-commit.json
 
 [run_dependent_text]
