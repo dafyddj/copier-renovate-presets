@@ -3,3 +3,4 @@ The following new files/directories were created:
 ----.copier-answers.renovate-presets.yml
 ----group-by-manager.json
 ----update-github-actions.json
+----update-pre-commit.json
