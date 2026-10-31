@@ -39,7 +39,7 @@ jobs:
         with:
           fetch-depth: 0      # `copier` prefers full-history clones
           submodules: true
-      - uses: jdx/mise-action@9b200bcecbfd6303e69a4a261b2e09e3757440a7 # v5.2.0
+      - uses: jdx/mise-action@6be3c7ed4c21d4f76b208d351d95aac273ebb76d # v5.2.4
       - name: Debug on runner (When re-run with "Enable debug logging" checked)
         if: runner.debug
         uses: owenthereal/action-upterm@b9dfa526f890bbd5162d781f8d9c69b97731d73d # v2.7.0
