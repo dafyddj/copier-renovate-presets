@@ -10,6 +10,7 @@ full_name:copier-renovate-presets
 create_catalogues:true
 
 [collate_file]
+configure-renovate-updates_json:configure-renovate-updates.json
 group-by-manager_json:group-by-manager.json
 update-chef-workstation_json:update-chef-workstation.json
 update-github-actions_json:update-github-actions.json
